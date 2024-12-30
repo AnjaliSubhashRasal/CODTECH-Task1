@@ -23,7 +23,7 @@ The data includes columns like Passengerid, Age, Fare, Sex, sibsp, Parch, and Pc
 ## Correlation Analysis:
    Identifying correlation 
 
-# Thechnologies used
+# Technologies used
 
 ## Python: 
    The primary programming language for data analysis.

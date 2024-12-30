@@ -9,7 +9,7 @@
 
 
 
-# Over of the Project 
+# Overview of the Project 
 
 ## Project: EXPLORATORY DATA ANALYSIS (EDA) on Titanic Dataset
 
